@@ -1,0 +1,3 @@
+#same datatype
+contiguous in memory+linear 
+create-> int marks[5]5 is the size of the array
